@@ -2,7 +2,10 @@
 
 Wiring harness editor and viewer in C. Based on [raylib](https://github.com/raysan5/raylib/).
 
-![A harness demo gif](Demo.gif)
+<video controls>
+  <source src="Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag. See <a href="Demo.mp4">demo.mp4</a> for download.
+</video>
 
 Edit simple_harness.c to point to a TTF font in your ``$HOME/bin`` directory and compile using your favourite C compiler.
 
